@@ -1,0 +1,5 @@
+## Run start
+
+```
+nodemon app
+```
